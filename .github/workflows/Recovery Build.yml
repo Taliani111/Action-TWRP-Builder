@@ -14,7 +14,7 @@ on:
       DEVICE_TREE_URL:
         description: 'DEVICE_TREE_URL'
         required: true
-        default: 'https://github.com/Taliani111/Twrp-ch6n'
+        default: 'https://github.com/Taliani111/android_device_tecno_TECNO-CH6/tree/dbc010081dcac75b221ad728a4e50dcd6116ec04'
       DEVICE_TREE_BRANCH:
         description: 'DEVICE_TREE_BRANCH'
         required: true
