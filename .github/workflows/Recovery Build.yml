@@ -14,7 +14,7 @@ on:
       DEVICE_TREE_URL:
         description: 'DEVICE_TREE_URL'
         required: true
-        default: 'https://github.com/Taliani111/android_device_tecno_TECNO-CH6/tree/Camon-ch6n-TWRP.12?search=1'
+        default: 'https://github.com/Taliani111/android_device_tecno_TECNO-CH6/tree/Camon-ch6n-TWRP.12'
       DEVICE_TREE_BRANCH:
         description: 'DEVICE_TREE_BRANCH'
         required: true
