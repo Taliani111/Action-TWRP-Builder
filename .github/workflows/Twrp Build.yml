@@ -14,7 +14,7 @@ on:
       DEVICE_TREE_URL:
         description: 'DEVICE_TREE_URL'
         required: true
-        default: 'https://github.com/Taliani111/Twrp-ch6n'
+        default: 'https://github.com/Taliani111/android_device_tecno_TECNO-CH6/tree/Camon-ch6n-TWRP.12'
       DEVICE_TREE_BRANCH:
         description: 'DEVICE_TREE_BRANCH'
         required: true
@@ -22,7 +22,7 @@ on:
       DEVICE_PATH:
         description: 'DEVICE_PATH'
         required: true
-        default: 'device/tecno/TECNO-CH6'
+        default: 'device/tecno/CH6'
       COMMON_TREE_URL:
         description: 'COMMON_TREE_URL (if no common tree, leave blank)'
         required: false
@@ -32,11 +32,11 @@ on:
       DEVICE_NAME:
         description: 'DEVICE_NAME'
         required: true
-        default: 'TECNO-CH6'
+        default: 'CH6'
       MAKEFILE_NAME:
         description: 'MAKEFILE_NAME'
         required: true
-        default: 'twrp_ch6n'
+        default: 'twrp_CH6'
       BUILD_TARGET:
         description: 'BUILD_TARGET'
         required: true
