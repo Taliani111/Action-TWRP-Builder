@@ -10,11 +10,11 @@ on:
       MANIFEST_BRANCH:
         description: 'MANIFEST_BRANCH'
         required: true
-        default: 'twrp-12.1'
+        default: 'twrp-11'
       DEVICE_TREE_URL:
         description: 'DEVICE_TREE_URL'
         required: true
-        default: 'https://github.com/Taliani111/android_device_tecno_TECNO-CH6/tree/Camon-ch6n-TWRP.12'
+        default: 'https://github.com/Taliani111/android_device_tecno_TECNO-CH6/tree/vnd_ch6n_h6912-user-12-SP1A.210812.016-295840-release-keys'
       DEVICE_TREE_BRANCH:
         description: 'DEVICE_TREE_BRANCH'
         required: true
